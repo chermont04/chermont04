@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as an intern at CNJ (National Council of Justice)
 - 🌱 I’m currently learning about Data Science and Machine Learning at Alura
-- 👯 I’m looking to collaborate on MA/AI
+- 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with data engineering
 - 💬 Ask me about anything (If i don't know we can figure it out together)
 - 📫 How to reach me: 
@@ -10,5 +10,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I liked all the foods I have tasted so far
 
-
-
+[![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=chermont04&hide=issues,contribs)](https://github.com/chermont04/github-readme-stats)
