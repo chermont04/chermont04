@@ -10,4 +10,12 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I liked all the foods I have tasted so far
 
-[![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=chermont04&hide=issues,contribs)](https://github.com/chermont04/github-readme-stats)
+### Languages and Tools
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/linux.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgresql.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/django.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> 
+
+
+<summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Felipe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chermont04&show_icons=true&hide_border=true" />
